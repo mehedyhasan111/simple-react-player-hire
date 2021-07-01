@@ -1,0 +1,17 @@
+.player-info{
+    background-color:grey;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    
+}
+img{
+    height: 200px;
+}
+.button{
+    color:orangered;
+    font-size: larger;
+    height:30px;
+    width:100px;
+    border-radius: 5px;
+}

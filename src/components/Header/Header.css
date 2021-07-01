@@ -1,0 +1,13 @@
+
+.header{
+    border: 1px solid red;
+    display: flex;
+    background-color: rosybrown;
+}
+.header img{
+    height: 90px;
+
+}
+.title{
+    margin: 20px;
+}

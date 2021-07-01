@@ -1,0 +1,10 @@
+.players{
+    display: flex;
+}
+.line{
+    border-right: 2px solid greenyellow;
+    margin-right:10px;
+}
+.players-info{
+    width: 70%;
+}
